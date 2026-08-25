@@ -9,6 +9,7 @@
 <body>
 <h1>Web Application Development - Lab 3</h1>
 <?php
+  // s104542629
   function is_prime ($n) {           // declare the is_prime function
 
     if ($n > 1) {                    // 1 is not a prime number

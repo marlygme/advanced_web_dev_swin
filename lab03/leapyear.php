@@ -9,6 +9,7 @@
 <body>
 <h1>Web Application Development - Lab 3</h1>
 <?php
+  // s104542629
   function is_leapyear ($year) {                  // declare the is_leapyear function
 
     if ($year / 4 == round ($year / 4)) {         // divisible by 4

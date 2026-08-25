@@ -9,6 +9,7 @@
 <body>
     <h1>Web Programming - Lab 2</h1>
     <?php
+      // s104542629
       $days = array ("Sunday", "Monday", "Tuesday", "Wednesday",
                      "Thursday", "Friday", "Saturday");   // declare and initialise array
 

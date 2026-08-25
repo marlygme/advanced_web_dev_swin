@@ -9,6 +9,7 @@
 <body>
     <h1>Web Programming - Lab 2</h1>
     <?php
+      // s104542629
       $value = 8;                       // declare a variable with a value
 
       is_numeric ($value)               // checks the value is a number

@@ -1,4 +1,5 @@
 <?php
+   // s104542629
    function factorial ($n) {   // declare the factorial function
        $result = 1;            // declare and initialise the result variable
        $factor = $n;           // declare and initialise the factor variable

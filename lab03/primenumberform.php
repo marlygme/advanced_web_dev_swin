@@ -4,6 +4,7 @@
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <meta name="description" content="Web Application Development :: Lab 3" />
 <meta name="keywords" content="Web,programming" />
+<meta name="author" content="s104542629" />
 <title>Implementing loop statements</title>
 </head>
 <body>
