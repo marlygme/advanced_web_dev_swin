@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" >
-    <meta name="description" content="Web Programming :: Lab 2" >
+    <meta name="description" content="COS30020 Advanced Web Development :: Lab 2" >
     <meta name="keywords" content="Web,programming" >
     <title>Using expression and looking up built-in functions</title>
 </head>
 <body>
-    <h1>Web Programming - Lab 2</h1>
+    <h1>COS30020 Advanced Web Development - Lab 2</h1>
     <?php
       // s104542629
       $value = 8;                       // declare a variable with a value

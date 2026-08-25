@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="Web Application Development :: Lab 3" />
+<meta name="description" content="COS30020 Advanced Web Development :: Lab 3" />
 <meta name="keywords" content="Web,programming" />
 <title>Using if and while statements</title>
 </head>
@@ -11,7 +11,7 @@
   // s104542629
   include ("mathfunctions.php");
 ?>
-<h1>Web Programming - Lab 3</h1>
+<h1>COS30020 Advanced Web Development - Lab 3</h1>
 <?php
   if (isset ($_GET["number"])) {   // check if form data exists
     $num = $_GET["number"];        // obtain the form data

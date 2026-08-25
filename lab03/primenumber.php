@@ -2,12 +2,12 @@
 <html lang="en" >
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="Web Application Development :: Lab 3" />
+<meta name="description" content="COS30020 Advanced Web Development :: Lab 3" />
 <meta name="keywords" content="Web,programming" />
 <title>Implementing loop statements</title>
 </head>
 <body>
-<h1>Web Application Development - Lab 3</h1>
+<h1>COS30020 Advanced Web Development - Lab 3</h1>
 <?php
   // s104542629
   function is_prime ($n) {           // declare the is_prime function
